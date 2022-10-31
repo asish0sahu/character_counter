@@ -1,0 +1,9 @@
+.boat {
+  background-color: #ffc533;
+  color: black;
+  padding: 5px;
+  margin-left: 5px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  border-radius: 6px;
+}
